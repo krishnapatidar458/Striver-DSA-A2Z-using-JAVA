@@ -6,7 +6,7 @@ class DataTypes{
         char c = 'a';       //character data type it stores a single character
         byte b = 101;       //byte is an 8-bit signed integer
         short s = 3452;     //short is a 16-bit signed integer
-        double  d = 99.99d;  //double is a double precision floating point number
+        double  d = 99.99d; //double is a double precision floating point number
         long  l = 123456L;  //long is a 64-bit signed integer
         System.out.println("Integer : " +x);
         System.out.println("Float : "  +y);
