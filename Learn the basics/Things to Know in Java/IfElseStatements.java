@@ -1,12 +1,12 @@
 class IfElseStatements{
     public static void main(String[] args){
-        int marks=94;
+        int marks=94; 
 
 
-        char grade;
+        char grade; 
 
         if (marks < 25) {
-            grade = 'F';
+            grade = 'F'; 
         } else if (marks <= 44) {
             grade = 'E';
         } else if (marks <= 49) {
