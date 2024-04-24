@@ -31,6 +31,5 @@ class llist{
         for(int e:ll){
             System.out.print(e+",");
         }
-        
     }
 }
