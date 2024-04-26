@@ -10,7 +10,7 @@ class queue{
         q.offer(30);
         q.offer(40);
         q.offer(50);
-        System.out.println(q);
+        System.out.println(q);  
         q.poll();
         q1.offer(12);
         q1.offer(13);
